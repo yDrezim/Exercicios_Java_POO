@@ -12,5 +12,6 @@ public class exercicio_3 {
         //Ele transforma o numero 7.9 que seria em double em int
         System.out.println(10 / 4 * 4);
         //Ele faz a conta de 10/4 mas como e inteiro aparece apenas 2 sendo assim 2*4 e 8
+
     }
 }

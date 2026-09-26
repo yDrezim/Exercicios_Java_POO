@@ -12,6 +12,7 @@ public class exercicio_2 {
         double C;
         double f;
 
+
         System.out.println("Digite o valor em real");
          real = scanner.nextDouble();
         resultado = cotacao * real;
@@ -20,6 +21,5 @@ public class exercicio_2 {
         C = scanner.nextDouble();
         f = (C * 9/5) + 32;
         System.out.println("O valor em Fahrenheit e:\n" + f);
-
     }
 }
